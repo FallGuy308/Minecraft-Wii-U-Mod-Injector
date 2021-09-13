@@ -1,5 +1,5 @@
 # Minecraft: Wii U Mod Injector
-The first and original Mod Injector for Minecraft: Wii U Edition, now open source.
+le fork
 # ![Logo](Minecraft%20Wii%20U%20Mod%20Injector/Icon.ico)
 
 # Download
